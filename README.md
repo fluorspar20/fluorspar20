@@ -14,8 +14,8 @@ const info = {
     pronouns: "he" | "him",
     skills: {
         languages: [C++, Javascript, Java],
-        web development: [HTML, CSS, React.js, Next.js, Redux, Node.js, Express, MongoDB],
-        tools/frameworks: [Git, Github, npm, Bootstrap, Sass]
+        webDevelopment: [HTML, CSS, React.js, Next.js, Redux, Node.js, Express, MongoDB],
+        toolsAndFrameworks: [Git, Github, npm, Bootstrap, Sass]
     },
     hobbies: [Football, Gaming, Listening to music, Photography],
     musing: "You are on the fastest route despite usual traffic!",
