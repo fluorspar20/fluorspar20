@@ -17,7 +17,7 @@ const info = {
         webDevelopment: [HTML, CSS, React.js, Next.js, Redux, Node.js, Express, MongoDB],
         toolsAndFrameworks: [Git, Github, npm, Bootstrap, Sass]
     },
-    hobbies: [Football, Gaming, Listening to music, Photography],
+    hobbies: ["Football", "Gaming", "Listening to music", "Photography"],
     musing: "You are on the fastest route despite usual traffic!",
 };
 ```
