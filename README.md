@@ -1,4 +1,4 @@
-<h2> Hi, I'm Amogh Dixit! <img src="https://media.tenor.com/images/822fb670841c6f6582fefbb82e338a50/tenor.gif" width="50"></h2>
+<h2> Hi, I'm Amogh Dixit!</h2>
 <img align='right' src="./images/img.svg" width="330">
 <p><em>Undergraduate at Indian Institute of Technology, Indore<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Student Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
