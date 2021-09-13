@@ -3,7 +3,7 @@
 <p><em>Undergraduate at Indian Institute of Technology, Indore<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Student Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter: runtimeError20](https://img.shields.io/twitter/follow/runtimeError20?style=social)](https://twitter.com/runtimeError20)
+[![Twitter: amoghdixit20](https://img.shields.io/twitter/follow/runtimeError20?style=social)](https://twitter.com/runtimeError20)
 [![Linkedin: Amogh Dixit](https://img.shields.io/badge/-amoghdixit2010-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amoghdixit2010/)](https://www.linkedin.com/in/amoghdixit2010/)
 [![GitHub Fluorspar20](https://img.shields.io/github/followers/fluorspar20?label=follow&style=social)](https://github.com/fluorspar20)
 
