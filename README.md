@@ -22,8 +22,6 @@ const info = {
 };
 ```
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fluorspar20&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Seeking to be inspired, to envision the unlikely, to work hard for things that are worth it, and to be surrounded by those who bring out the best in me</b> :)</em>
 
 ---
