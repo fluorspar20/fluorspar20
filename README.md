@@ -37,9 +37,10 @@ Machine Learning • Advanced Learning Theory • Computer Vision • Foundation
 ---
 
 ### Indian Institute of Technology Indore  
-**B.Tech — Electrical & Computer Engineering**  
+**Bachelor of Technology — Electrical & Computer Engineering**  
+GPA: **8.76 / 10.0**
 
-Minor: Humanities and Economics  
+Minor: Economics  
 
 Relevant Coursework  
 Probability & Random Processes • Digital Signal Processing • Linear Algebra • Calculus
