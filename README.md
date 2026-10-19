@@ -5,8 +5,8 @@ MS Computer Science @ UW–Madison • Machine Learning • Statistical Learning
 </p>
 
 <p align="center">
-<a href="mailto:asdixit3@wisc.edu"><img src="https://img.shields.io/badge/Email-asdixit3%40wisc.edu-red?style=for-the-badge&logo=gmail"></a>
-<a href="https://linkedin.com/in/amoghdixit2010"><img src="https://img.shields.io/badge/LinkedIn-Amogh%20Dixit-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="mailto:amogh.dixit@wisc.edu"><img src="https://img.shields.io/badge/Email-amogh.dixit%40wisc.edu-red?style=for-the-badge&logo=gmail"></a>
+<a href="https://linkedin.com/in/amoghdixit2010"><img src="https://img.shields.io/badge/LinkedIn-AmoghDixit2010-blue?style=for-the-badge&logo=linkedin"></a>
 <a href="https://github.com/fluorspar20"><img src="https://img.shields.io/badge/GitHub-fluorspar20-black?style=for-the-badge&logo=github"></a>
 <a href="https://scholar.google.com/citations?user=ROVYlJIAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-Profile-blue?style=for-the-badge&logo=googlescholar"></a>
 </p>
@@ -89,7 +89,7 @@ MS Computer Science @ UW–Madison • Machine Learning • Statistical Learning
 ## Education
 
 ### University of Wisconsin–Madison
-**Master of Science — Computer Science** · *Sep 2025 – Dec 2026*
+**Master of Science — Computer Science** · *Sep 2025 – May 2027*
 GPA: **4.0 / 4.0**
 
 *Relevant Coursework*:
